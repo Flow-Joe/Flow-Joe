@@ -1,16 +1,22 @@
-### Hi there 👋
+# ✨ FlowJoe's (Joe Unwin) GitHub profile ✨ 
 
-<!--
-**Flow-Joe/Flow-Joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![FlowJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=flow-joe&theme=light&show_icons=true&count_private=true)
 
-Here are some ideas to get you started:
+Community profiles:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alt text][1.1]][1]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alt text][2.1]][2]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alt text][3.1]][3]
+
+
+<!-- icons -->
+
+[1.1]: http://i.imgur.com/gPCQPaR.png
+[2.1]: https://i.imgur.com/jeT47Ys.png
+[3.1]: https://i.imgur.com/FSR05ip.png
+
+<!-- links -->
+
+[1]: http://www.twitter.com/flow_joe_
+[2]: https://www.linkedin.com/in/joeunwin/
+[3]: https://youtube.com/c/FlowJoeVideos
