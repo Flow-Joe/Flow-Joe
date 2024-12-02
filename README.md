@@ -9,27 +9,15 @@ I play a pivotal role in driving the adoption and optimization of AI across vari
 
 -------------------
 
-## Contact
-<!-- icons -->
+## Socials
 
-[1.1]: http://i.imgur.com/gPCQPaR.png
-[2.1]: https://i.imgur.com/jeT47Ys.png
-[3.1]: https://i.imgur.com/FSR05ip.png
-
-<!-- links -->
-
-[1]: http://www.x.com/flowjoe
-[2]: https://www.linkedin.com/in/joeunwin/
-[3]: https://youtube.com/c/FlowJoeVideos
 
 -------------------
 
 ### Languages and Tools  
-<p align="center">
-  <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=azure,aws,dotnet,cs,py,rust,js,html,css&theme=light)](https://skillicons.dev)
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,dotnet,cs,py,rust,js,html,css&theme=light)](https://skillicons.dev)
+
   
 -------------------
 
