@@ -11,7 +11,7 @@ I play a pivotal role in driving the adoption and optimization of AI across vari
 
 ### Languages and Tools  
 
-![My Skills](https://skillicons.dev/icons?i=azure,aws,dotnet,cs,py,rust,js,html,css&theme=light)
+![My Skills](https://skillicons.dev/icons?i=azure,aws,dotnet,cs,py,rust,js,ts,html,css,bootstrap&theme=light)
 
 -------------------
 
