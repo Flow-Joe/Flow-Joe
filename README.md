@@ -13,6 +13,10 @@ I play a pivotal role in driving the adoption and optimization of AI across vari
 
 ![My Skills](https://skillicons.dev/icons?i=azure,aws,dotnet,cs,py,rust,js,html,css&theme=light)
 
+-------------------
 
+### Blog
+
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://www.flowjoe.io/)
 
  <div>
