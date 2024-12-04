@@ -21,5 +21,6 @@ I play a pivotal role in driving the adoption and optimization of AI across vari
 
 -------------------
 
-![image](https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" width="300">
+
 <div>
