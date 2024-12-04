@@ -19,4 +19,7 @@ I play a pivotal role in driving the adoption and optimization of AI across vari
 
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://www.flowjoe.io/)
 
- <div>
+-------------------
+
+![image](https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png)
+<div>
